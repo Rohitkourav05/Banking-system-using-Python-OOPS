@@ -195,7 +195,7 @@ if __name__ == '__main__':
                     break 
 
     if user == 2:
-        print('Creating a new Account')
+        print('Creating a new Account >')
         name = input('Enter Name: ')
         ph = int(input('Enter Phone Number: '))
         password = input('Enter Password: ')
